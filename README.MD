@@ -10,5 +10,5 @@ This file contains the HTML markup for the quiz app. It includes a question box,
 style.css
 This file contains the CSS styles for the quiz app. It includes styles for the question box, answer options, and submit button. It also includes styles for the final score display.
 
-##script.js
+script.js
 This file contains the JavaScript code for the quiz app. It includes an array of objects that store questions and their respective answers. It also includes functions to load the current question, check the user's answer, update the score, and display the final score

@@ -4,6 +4,7 @@ This project is a simple quiz app built with HTML, CSS, and JavaScript. It inclu
 index.html
 style.css
 script.js
+
 index.html
 This file contains the HTML markup for the quiz app. It includes a question box, answer options, and a submit button. It also includes a div to display the final score at the end of the quiz.
 
